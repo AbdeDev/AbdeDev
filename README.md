@@ -10,14 +10,14 @@
   <samp>
     <a href="https://www.google.com/search?q=Diarra +Abdramane+Hetic">「 Google Me 」</a>
     <br>
-    「 I am a Frontend web appplication developer from <b>France</b> 」
+    「 I am a Fullstack developer from <b>France</b> 」
     <br>
     <br>
   </samp>
 </p>
 
 <p align="center">
- <a href="https://abde-portofolio.000webhostapp.com" target="blank">
+ <a href="https://www.devcase.me/abdedev" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="Abde" />
  </a>
  <a href="https://www.linkedin.com/in/abdramane-diarra-615101226/" target="_blank">
